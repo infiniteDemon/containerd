@@ -29,7 +29,7 @@ package errdefs
 import (
 	"context"
 
-	"github.com/pkg/errors"
+	"github.com/infiniteDemon/errors"
 )
 
 // Definitions of common error types used throughout containerd. All containerd
